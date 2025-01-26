@@ -67,6 +67,17 @@ I have made a Wiki for this project. Check it out [here](https://ddaretrogamer.g
 - Some hisui/regional/gmax variants
 - Raid den spawns
 
+## Support
 For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
-SwSh Ultimate Plus Wiki was generated using [WikiGen](https://github.com/AkeemAllen/WikiGen).
+## Credits
+Thanks to:
+- PCL.G and Jean Stars for initial development of this hack
+- Phantonomy for translation and implimentation of new features and bug fixes
+- KingTapir for tiles
+- hyo for the Victor sprite
+- Chronoyevsky for [WikiGen](https://github.com/AkeemAllen/WikiGen), used to generate the wiki.
+- LibertyTwins, Shiny Miner, Compumaxx, and ansh860 for the BW menu patches
+- Zame for translation of the EV/IV checker and help implimenting c injections.
+- Skeli and team for CFRU
+Please reach out if you see your work in this hack and are uncredited. As a non-original dev, I'm not certain where all of the assets came from.
