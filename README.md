@@ -73,7 +73,7 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 ## Credits
 Thanks to:
 - PCL.G and Jean Stars for initial development of this hack
-- Phantonomy for translation and implimentation of new features and bug fixes
+- Phantonomy for translation and implementation of new features and bug fixes
 - KingTapir for tiles
 - hyo for the Victor sprite
 - Chronoyevsky for [WikiGen](https://github.com/AkeemAllen/WikiGen), used to generate the wiki.
