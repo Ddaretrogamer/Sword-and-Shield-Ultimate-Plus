@@ -81,4 +81,5 @@ Thanks to:
 - Zame for translation of the EV/IV checker and help implimenting c injections.
 - Skeli and team for CFRU
 - Rycule For RetroAchievements Support
+  
 Please reach out if you see your work in this hack and are uncredited. As a non-original dev, I'm not certain where all of the assets came from.
