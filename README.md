@@ -41,6 +41,11 @@ The .zip file contains 5 Files
 - Casual .bps patch for SwSh Ultimate Plus 1.2.1  to add venders that sell Masterballs/EV items/Rare candies for 1 dollar.
 - Performance .bps patch for SwSH Ultimate Plus 1.2.1 which removes some of the overworld sprites to optimize performance.
 - Performance + Casual .bps patch for SwSH Ultimate Plus 1.2.1 which combines the above 2 features into 1 patch.
+
+Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch the files.
+A patching tutorial is available on [discord](https://discord.gg/5KaesJHx9e) if you are uncertain on exactly how to patch a ROM.
+You will need to provide your own **legally obtained** copy of FireRed.
+  
   
 ## Wiki
 I have made a Wiki for this project. Check it out [here](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/)!
