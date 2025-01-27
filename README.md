@@ -31,7 +31,7 @@ There have been 6 versions of this hack released by 4 developers.
 
 This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
 
-**The current version of the game is SwSh Ultimate Plus v1.2.1**\
+**The current version of the game is SwSh Ultimate Plus v1.2.1**
 
 ## Download
 ### Download the .zip containing patch files in the **Releases** Section.
@@ -72,14 +72,15 @@ For further assistance, join the [discord](https://discord.gg/5KaesJHx9e)!
 
 ## Credits
 Thanks to:
-- PCL.G and Jean Stars for initial development of this hack
-- Phantonomy for translation and implementation of new features and bug fixes
-- KingTapir for tiles
-- hyo for the Victor sprite
+- PCL.G and Jean Stars for initial development of this hack.
+- Phantonomy for translation and implementation of new features and bug fixes.
+- KingTapir for tiles.
+- hyo for the Victor sprite.
 - Chronoyevsky for [WikiGen](https://github.com/AkeemAllen/WikiGen), used to generate the wiki.
-- LibertyTwins, Shiny Miner, Compumaxx, and ansh860 for the BW menu patches
+- LibertyTwins, Shiny Miner, Compumaxx, and ansh860 for the BW menu patches.
+- LibertyTwins for the GBA compatible MIDIs for new music.
 - Zame for translation of the EV/IV checker and help implimenting c injections.
-- Skeli and team for CFRU
-- Rycule For RetroAchievements Support
+- Skeli and team for CFRU.
+- Rycule For RetroAchievements Support.
   
 Please reach out if you see your work in this hack and are uncredited. As a non-original dev, I'm not certain where all of the assets came from.
