@@ -79,7 +79,7 @@ Thanks to:
 - Chronoyevsky for [WikiGen](https://github.com/AkeemAllen/WikiGen), used to generate the wiki.
 - LibertyTwins, Shiny Miner, Compumaxx, and ansh860 for the BW menu patches.
 - LibertyTwins for the GBA compatible MIDIs for new music.
-- Zame for translation of the EV/IV checker and help implimenting c injections.
+- Zake for translation of the EV/IV checker and help implimenting c injections.
 - Skeli and team for CFRU.
 - Rycule For RetroAchievements Support.
   
