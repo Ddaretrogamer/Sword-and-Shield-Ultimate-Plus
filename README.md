@@ -45,7 +45,10 @@ The .zip file contains 5 Files
 Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch the files.
 A patching tutorial is available on [discord](https://discord.gg/5KaesJHx9e) if you are uncertain on exactly how to patch a ROM.
 You will need to provide your own **legally obtained** copy of FireRed.
-  
+
+Unsure of which customization patch to apply? Consult this flowchart:
+![patching flowchart](https://github.com/user-attachments/assets/0b7c51ca-3483-43d8-99bc-ba617e0325e6)
+
   
 ## Wiki
 I have made a Wiki for this project. Check it out [here](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/)!
