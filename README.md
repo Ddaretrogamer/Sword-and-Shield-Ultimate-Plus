@@ -31,16 +31,16 @@ There have been 6 versions of this hack released by 4 developers.
 
 This hack was originally created and released by Pclg in 2020. Jeanstars remade it, adding CFRU, dubbing it SwSh Ultimate which was released in 2023. I translated this version to English. Pclg released an overhaul of SwSh Ultimate, and dubbed it, SwSh Ultimate Plus. I then translated that version to English as well.
 
-**The current version of the game is SwSh Ultimate Plus v1.2.1**
+**The current version of the game is SwSh Ultimate Plus v1.2.1.1**
 
 ## Download
 ### Download the .zip containing patch files in the **Releases** Section.
 The .zip file contains 5 Files
-- SwSh Ultimate Plus version 1.2.1 .bps patch for FireRed 1.0 (1636 Squirrels)
-- SwSh Ultimate Plus version 1.2.1 .bps patch for FireRed 1.1 
-- Casual .bps patch for SwSh Ultimate Plus 1.2.1  to add venders that sell Masterballs/EV items/Rare candies for 1 dollar.
-- Performance .bps patch for SwSH Ultimate Plus 1.2.1 which removes some of the overworld sprites to optimize performance.
-- Performance + Casual .bps patch for SwSH Ultimate Plus 1.2.1 which combines the above 2 features into 1 patch.
+- SwSh Ultimate Plus version 1.2.1.1 .bps patch for FireRed 1.0 (1636 Squirrels)
+- SwSh Ultimate Plus version 1.2.1.1 .bps patch for FireRed 1.1 
+- Casual .bps patch for SwSh Ultimate Plus 1.2.1.1  to add venders that sell Masterballs/EV items/Rare candies for 1 dollar.
+- Performance .bps patch for SwSH Ultimate Plus 1.2.1.1 which removes some of the overworld sprites to optimize performance.
+- Performance + Casual .bps patch for SwSH Ultimate Plus 1.2.1.1 which combines the above 2 features into 1 patch.
 
 Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/legacy/) to patch the files.
 A patching tutorial is available on [discord](https://discord.gg/5KaesJHx9e) if you are uncertain on exactly how to patch a ROM.
