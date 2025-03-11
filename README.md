@@ -47,7 +47,7 @@ A patching tutorial is available on [discord](https://discord.gg/5KaesJHx9e) if 
 You will need to provide your own **legally obtained** copy of FireRed.
 
 Don't know which patch to apply? Check out this flowchart:
-![Patching Flowchart](images/patching%20flowchart.png)
+![Patching Flowchart](patching%20flowchart.png)
   
 ## Wiki
 I have made a Wiki for this project. Check it out [here](https://ddaretrogamer.github.io/sword-and-shield-ultimate-plus-wiki/)!
