@@ -60,10 +60,11 @@ I have made a Wiki for this project. Check it out [here](https://ddaretrogamer.g
 - Mystery gift codes
 - Gym puzzle guides
 - Legendaries quests guide
+-  Evolution methods
+-  Fossil Locations
 
 ### Things missing from the Wiki currently:
 - Exact move info
-- Evolution methods
 - Exact abilities
 - Exact item locations for all items
 - Some hisui/regional/gmax variants
