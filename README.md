@@ -34,6 +34,9 @@ This hack was originally created and released by Pclg in 2020. Jeanstars remade 
 **The current version of the game is SwSh Ultimate Plus v1.2.1.2**
 
 ## Download
+### Download and Patch Directly on Hackdex!
+You can easily patch on [Hackdex](https://www.hackdex.app/hack/sword-and-shield-ultimate-plus)!
+
 ### Download the .zip containing patch files in the **Releases** Section.
 The .zip file contains 5 Files
 - SwSh Ultimate Plus version 1.2.1.2 .bps patch for FireRed 1.0 (1636 Squirrels)
